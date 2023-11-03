@@ -17,6 +17,8 @@ links:
     icon_pack: fab
     name: Follow
     url: https://twitter.com/georgecushen
+  - name: Pdf
+    url: uploads/resume.pdf
 url_code: ''
 url_pdf: ''
 url_slides: ''
