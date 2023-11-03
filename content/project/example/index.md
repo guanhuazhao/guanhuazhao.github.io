@@ -12,9 +12,10 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links:
-  - name: Pdf
-    url: uploads/resume.pdf
+#links:
+#  - name: Pdf
+#    url: uploads/resume.pdf
+
 url_code: ''
 url_pdf: uploads/resume.pdf
 url_slides: ''
