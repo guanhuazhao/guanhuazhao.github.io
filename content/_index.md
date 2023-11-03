@@ -192,7 +192,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Leave your message here!
       # Contact (add or remove contact options as necessary)
       email: guanhuazhao0214@outlook.com; guanhua.zhao.22@ucl.ac.uk 
       phone: +86 19934916920; +44 07391827836
