@@ -196,10 +196,6 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: guanhuazhao0214@outlook.com; guanhua.zhao.22@ucl.ac.uk 
       phone: +86 19934916920; +44 07391827836
-      contact_links:
-        - icon: linkedin
-          icon_pack: fab
-          link: https://www.linkedin.com/in/guanhua-zhao-1a1a26258/ 
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
