@@ -1,13 +1,11 @@
 ---
 # Display name
-title: 吳健雄
+title: Guanhua Zhao
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Guanhua 
+last_name: Zhao
 
 # Status emoji
 status:
@@ -17,74 +15,36 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Graduate Transport Planner
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The Bartlett of Planning, University College London
+    url: https://www.ucl.ac.uk/bartlett/planning/bartlett-school-planning
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I hold a MSc in Transport and City Planning from the University College London and BEng in Transportation from Tongji University, specializing in traffic data analysis and transportation information engineering.
+
+As an Urban Planner, and Transport Engineer, I am driven by enhancing urban life through technology and transport. I have experience collaborating with diverse stakeholders in China and the UK, including Shangha Transport department, Portsmouth City Council and Sustrans. My passion for making a positive impact in urban environments fuels my interdisciplinary approach and commitment to innovative solutions, positioning me as a valuable contributor to shaping the cities of the future.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Active Travel
+  - Shared Mobility
+  - Transport and Big Data
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Transport and City Planning
+      institution: University College London
+      year: 2023
+    - course: BEng in Transportation Engineering
+      institution: Tongji University
+      year: 2022
 
-# Skills
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -93,28 +53,20 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 'mailto:guanhua.zhao.22@ucl.ac.uk'
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/guanhuazhao
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/guanhua-zhao-1a1a26258/ 
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
+
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
