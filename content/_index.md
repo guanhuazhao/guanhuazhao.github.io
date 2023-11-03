@@ -117,6 +117,7 @@ sections:
 
 
   - block: collection
+    id: publications
     content:
       title: Publications
       text: |-
