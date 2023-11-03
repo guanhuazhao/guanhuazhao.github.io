@@ -19,7 +19,7 @@ role: Graduate Transport Planner
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: The Bartlett of Planning, University College London
+  - name: The Bartlett School of Planning, University College London
     url: https://www.ucl.ac.uk/bartlett/planning/bartlett-school-planning
 
 # Short bio (displayed in user profile at end of posts)
@@ -70,5 +70,5 @@ social:
 highlight_name: true
 ---
 
-I hold a MSc in Transport and City Planning from the University College London and BEng in Transportation from Tongji University, specializing in traffic data analysis and transportation information engineering. As an Urban Planner, and Transport Engineer, I am driven by enhancing urban life through technology and transport. I have experience collaborating with diverse stakeholders in China and the UK, including Shangha Transport department, Portsmouth City Council and Sustrans. My passion for making a positive impact in urban environments fuels my interdisciplinary approach and commitment to innovative solutions, positioning me as a valuable contributor to shaping the cities of the future.
+As an Urban Planner and Transport Engineer, I am driven by enhancing urban life through technology and transport. I have experience collaborating with diverse stakeholders in China and the UK, including Shangha Transport department, Portsmouth City Council and Sustrans. My passion for making a positive impact in urban environments fuels my interdisciplinary approach and commitment to innovative solutions, positioning me as a valuable contributor to shaping the cities of the future.
 {style="text-align: justify;"}
