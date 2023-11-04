@@ -129,9 +129,9 @@ sections:
       items:
         - date_end: ''
           date_start: '2022-03-01'
-          description: 'Shen, Y., Zhu, M.,**Zhao, G.**, Zhu, S., Chen, K.'
+          description: ''
           icon: ''
-          organization:  '*Chinese Invention Patent*, CN202111332685.6'
+          organization:  'Shen, Y., Zhu, M.,**Zhao, G.**, Zhu, S., Chen, K. *Chinese Invention Patent*, CN202111332685.6'
           title: Method for establishing bus driver behavior perception and safety detection system
           url: 'https://pss-system.cponline.cnipa.gov.cn/Disclaimer'       
     design:
