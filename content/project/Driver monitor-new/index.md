@@ -1,16 +1,16 @@
 ---
-title: HSR Train Delay
-summary: Analysing influencing factors of high speed railway train delay based on text mining
+title: Bus Driver Monitoring System
+summary: Establishing a bus driver behaviour perception and safety monitoring system based on deep learning
 tags:
   - Traffic Data Analysis
   - Chinese
-date: '2022-06-30T00:00:00Z'
+date: '2021-05-30T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: LDA model visualization
+  caption: Platform Beta
   focal_point: Smart
 
 #links:
@@ -18,8 +18,8 @@ image:
 #    url: uploads/resume.pdf
 
 url_code: ''
-url_pdf: uploads/bachelorthesis.pdf
-url_slides: uploads/bachelorppt.pdf
+url_pdf: uploads/busdriver.pdf
+url_slides: uploads/drivermonitor.pdf
 url_video: ''
 
 # Slides (optional).
