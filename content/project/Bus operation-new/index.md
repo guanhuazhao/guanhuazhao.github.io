@@ -1,16 +1,16 @@
 ---
-title: Accessibility of GP Surgeries
-summary: Evaluateing accessibility and need of GP surgeries in Hertfordshire
+title: Bus Operation Management Report 
+summary: Conducting qualitative analysis on the operation status of bus and analysing the operation of bus sections based on GPS data using Matlab
 tags:
-  - Other
-  - English
-date: '2023-04-19T00:00:00Z'
+  - Traffic Data Analysis
+  - Chinese
+date: '2022-01-19T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: ArcGIS Visualizasion
+  caption: Section Operation Time 
   focal_point: Smart
 
 #links:
@@ -18,7 +18,7 @@ image:
 #    url: uploads/resume.pdf
 
 url_code: ''
-url_pdf: uploads/gpaccess.pdf
+url_pdf: uploads/busoperation.pdf
 url_slides: ''
 url_video: ''
 

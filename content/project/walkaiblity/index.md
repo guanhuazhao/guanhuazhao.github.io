@@ -1,6 +1,6 @@
 ---
 title: Step into Older Londoners
-summary: Exploring Walking Behaviours and Perceived Walkability of Older Adults in London
+summary: Exploring Walking Behaviours and Perceived Walkability of Older Adults in London using SPSS and QGIS
 tags:
   - Active Travel
   - English

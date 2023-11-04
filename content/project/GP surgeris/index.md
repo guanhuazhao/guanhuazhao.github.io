@@ -1,6 +1,6 @@
 ---
 title: Accessibility of GP Surgeries
-summary: Evaluateing accessibility and need of GP surgeries in Hertfordshire
+summary: Evaluateing accessibility and need of GP surgeries in Hertfordshire using ArcGIS
 tags:
   - Other
   - English

@@ -1,6 +1,6 @@
 ---
 title: Bus Driver Monitoring System
-summary: Establishing a bus driver behaviour perception and safety monitoring system based on deep learning
+summary: Establishing a bus driver behaviour perception and safety monitoring system based on deep learning using python
 tags:
   - Traffic Data Analysis
   - Chinese
