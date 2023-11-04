@@ -30,4 +30,7 @@ url_video: uploads/interlocking.mp4
 # slides: example
 ---
 
-This project 
+This project focuses on developing a simulation software that is specifically designed for simulating individual railway stations. It encompasses the design of input-output software, interlocking logic software, and operation representation software, among others. A thorough analysis and design of route logic relationships and buttons have also been carried out to establish the basic structure of the computer interlocking software for general-speed railways. As a result, the software is capable of performing basic functions. 
+
+
+Throughout the software design process, we encountered several challenges; however, completing this report has enhanced our understanding of track section configuration, route establishment, and turnout conversion in a more tangible manner. Additionally, we have developed a deeper appreciation for the significance of interlocking systems in railway stations.
