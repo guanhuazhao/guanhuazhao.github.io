@@ -9,7 +9,7 @@ date: '2023-04-15T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Quick Wins - Greenway
   focal_point: Smart
 
 #links:
