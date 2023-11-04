@@ -26,7 +26,7 @@ publishDate: "2022-03-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Chinese Invention Patent*"
+publication: "CN202111332685.6*Chinese Invention Patent*"
 
 
 abstract: CN202111332685.6, Chinese Invention Patent Authorised: 2022-3-1

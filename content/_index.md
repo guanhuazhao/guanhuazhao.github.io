@@ -114,23 +114,29 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-
-
-  - block: collection
-    id: publications
+  - block: accomplishments
     content:
-      title: Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Publications'
+      subtitle:
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - certificate_url: https://pss-system.cponline.cnipa.gov.cn/Disclaimer
+          date_end: ''
+          date_start: '2022-03-01'
+          description: 'Shen, Y., Zhu, M.,**Zhao, G.**, Zhu, S., Chen, K.'
+          icon: ''
+          organization:  '*Chinese Invention Patent*, CN202111332685.6'
+          title: Method for establishing bus driver behavior perception and safety detection system
+          url: ''       
     design:
       columns: '2'
-      view: citation
   - block: contact
     id: contact
     content:
