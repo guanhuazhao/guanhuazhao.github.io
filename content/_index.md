@@ -127,14 +127,13 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://pss-system.cponline.cnipa.gov.cn/Disclaimer
-          date_end: ''
+        - date_end: ''
           date_start: '2022-03-01'
           description: 'Shen, Y., Zhu, M.,**Zhao, G.**, Zhu, S., Chen, K.'
           icon: ''
           organization:  '*Chinese Invention Patent*, CN202111332685.6'
           title: Method for establishing bus driver behavior perception and safety detection system
-          url: ''       
+          url: 'https://pss-system.cponline.cnipa.gov.cn/Disclaimer'       
     design:
       columns: '2'
   - block: contact
