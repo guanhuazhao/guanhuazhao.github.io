@@ -128,6 +128,13 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - date_end: ''
+          date_start: '2023-10-30'
+          description: ''
+          icon: ''
+          organization:  '**Zhao, G.**, Cao, M., De Vos, J. [Under Review]'
+          title: Exploring Walking Behaviours and Perceived Walkability of Older Adults in London.
+          url: ''
+        - date_end: ''
           date_start: '2022-03-01'
           description: ''
           icon: ''
