@@ -1,6 +1,6 @@
 ---
 title: HSR Train Delay
-summary: Analysing influencing factors of high speed railway train delay based on text mining using Python
+summary: Analysing influencing factors of HSR train delay in Guangdong province based on text mining using Python
 tags:
   - Traffic Data Analysis
   - Chinese
