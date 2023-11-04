@@ -1,6 +1,6 @@
 ---
-title: Exploring Walking Behaviours and Perceived Walkability of Older Adults in London
-summary: An example of using the in-built project page.
+title: Step into Older Londoners
+summary: Exploring Walking Behaviours and Perceived Walkability of Older Adults in London
 tags:
   - Active Travel
 date: '2023-09-04T00:00:00Z'
@@ -31,7 +31,9 @@ url_video: ''
 
 In the context of an aging population, there is an emerging imperative to design walkable communities catering to the elderly. Even in the cosmopolitan city of London, there is a conspicuous gap in investigations regarding how older citizens perceive walkability. It is worth noting that such perceptions critically shape their willingness to engage in walking activities.
 
+
 The core research objective is to identify the determinants of walking behaviours and perceived walkability among seniors across various neighbourhoods in London, whilst also illuminating the relationship between them. A quantitative analysis was conducted on a sample size of 200 
 elderly individuals in Ealing, London. Utilizing a modified version of the Neighborhood Environment Walkability Scale for British Seniors, both linear and logistic regression models were employed to decode the data.
+
 
 The research confirms that the adapted NEWS is apt for assessing perceived walkability among seniors in London. It further demonstrates that socio-demographic factors and neighbourhood type, informed by Socio-Economic Status and Walkability, are critical in shaping their perceptions. As a consequential finding, it is evident that certain perceptions significantly influence the walking patterns of the elderly in studying area.
