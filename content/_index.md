@@ -147,22 +147,21 @@ sections:
     id: contact
     content:
       title: Contact
-      #subtitle:
+      subtitle:
       #text: |-
       #  Leave your message here!
       # Contact (add or remove contact options as necessary)
       email: guanhuazhao0214@outlook.com; guanhua.zhao.22@ucl.ac.uk 
-      phone: +86 19934916920; +44 07391827836
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      #form:
+      #  provider: netlify
+      #  formspree:
+      #    id:
+      #  netlify:
+      #    # Enable CAPTCHA challenge to reduce spam?
+      #    captcha: false
     design:
       columns: '2'
 ---
