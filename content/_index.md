@@ -131,7 +131,7 @@ sections:
           date_start: '2023-10-30'
           description: ''
           icon: ''
-          organization:  '**Zhao, G.**, Cao, M., De Vos, J. [Under Review]'
+          organization:  '**Zhao, G.**, Cao, M., De Vos, J. [In Revision]'
           title: Exploring Walking Behaviours and Perceived Walkability of Older Adults in London.
           url: ''
         - date_end: ''
@@ -147,9 +147,9 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
-      text: |-
-        Leave your message here!
+      #subtitle:
+      #text: |-
+      #  Leave your message here!
       # Contact (add or remove contact options as necessary)
       email: guanhuazhao0214@outlook.com; guanhua.zhao.22@ucl.ac.uk 
       phone: +86 19934916920; +44 07391827836

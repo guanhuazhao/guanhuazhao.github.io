@@ -28,7 +28,7 @@ bio: ''
 # Interests to show in About widget
 interests:
   - Active Travel
-  - Shared Mobility
+  - Micro-mobility
   - Transport and Big Data
 
 # Education to show in About widget
@@ -63,7 +63,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/Resume.pdf
 
 
 # Highlight the author in author lists? (true/false)
