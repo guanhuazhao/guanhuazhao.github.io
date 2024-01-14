@@ -146,7 +146,7 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: Email
       subtitle:
       #text: |-
       #  Leave your message here!
